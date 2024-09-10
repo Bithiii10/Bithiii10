@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Bithiii10/Bithiii10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a recent MCA graduate with a passion for technology and a keen interest in various tech roles. I’m eager to leverage my knowledge and skills in areas such as software development, data analysis, and web development within a dynamic industry environment.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Personal projects to enhance my skills and knowledge in tech.
+- 🌱 **Currently learning:** Advanced web development techniques and data analysis tools.
+- 👯 **Looking to collaborate on:** Innovative tech projects and opportunities to grow in different tech roles.
+- 🤔 **Looking for help with:** Exploring career paths and gaining insights into various tech roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Programming Languages:** C, Java, Python (Beginner proficiency)
+- **Web Development:** HTML, CSS, JavaScript
+- **App Development:** Flutter, Android Studio
+- **Databases:** MongoDB, Firebase
+- **Tools & Technologies:** SQL, Weka, Node.js, Unix, Jupyter Notebook
