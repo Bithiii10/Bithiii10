@@ -14,3 +14,12 @@ Welcome to my GitHub profile! I am a recent MCA graduate with a passion for tech
 - **App Development:** Flutter, Android Studio
 - **Databases:** MongoDB, Firebase
 - **Tools & Technologies:** SQL, Weka, Node.js, Unix, Jupyter Notebook
+
+
+💡 Interests: Software Engineering, Data Analysis, Web Development, App Development, Content Writing 
+
+
+### How to Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/bithisaha10](https://www.linkedin.com/in/bithisaha10)
+- **Email:** bithislg53@gmail.com
